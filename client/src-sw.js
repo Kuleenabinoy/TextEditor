@@ -40,4 +40,3 @@ registerRoute(
     })
 );
 // TODO: Implement asset caching----Done
-registerRoute();
