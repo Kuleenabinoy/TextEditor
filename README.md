@@ -51,6 +51,7 @@ Github
 https://github.com/Kuleenabinoy/TextEditor
 
 Herokku
+https://jatetexteditor.herokuapp.com/
 
 ## Questions
 
