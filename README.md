@@ -45,7 +45,7 @@ service worker with workbox that Caches static assets
 
 ## Screenshots
 ![Screenshot 2022-01-10 10 35 56](https://user-images.githubusercontent.com/86656634/148852980-f3e6a6b1-7b94-419e-91ab-8c1150658222.png)
-![Screenshot 2022-01-10 10 36 24](https://user-images.githubusercontent.com/86656634/148853018-1e824c43-3867-4378-8a56-4f6a128cd912.png)
+
 ![Screenshot 2022-01-10 10 36 31](https://user-images.githubusercontent.com/86656634/148853049-8d166c77-ecf6-428c-ad11-428b265451ca.png)
 
 ## Links
